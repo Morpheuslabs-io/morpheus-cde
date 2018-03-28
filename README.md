@@ -13,4 +13,7 @@ The Morpheus Labs CDE for blockchain aims to be implement a cloud software devel
 
 The underlying backend application for the platform is Microservice based architecture, its development is using the CDE.
 
-In addition, the CDE provides a ready to use stack for Microservice development.
+In addition, the CDE provides a ready to use stack for Microservice development. The basic Microservice development is based on Spring Boot.
+
+
+

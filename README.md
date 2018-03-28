@@ -7,4 +7,10 @@ This workspace provides development and hosting capabilities to the Blockchain a
 
 ## The Project
 
-The Morpheus Labs CDE for blockchain aims to be implement a cloud software development environment for blockchain. 
+The Morpheus Labs CDE for blockchain aims to be implement a cloud software development environment for blockchain.
+
+## Microservice Development
+
+The underlying backend application for the platform is Microservice based architecture, its development is using the CDE.
+
+In addition, the CDE provides a ready to use stack for Microservice development.
